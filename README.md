@@ -86,8 +86,6 @@ Passwords are encrypted using XOR cipher before being saved to disk.
 Encryption: password ^ key = encrypted
 Decryption: encrypted ^ key = password
 ```
-# ⚠️ Note: XOR encryption is for learning purposes. For real-world use, consider AES or other strong encryption methods.
-
 # 📁 File Format
 
 Passwords are saved in passwords.txt (encrypted):
