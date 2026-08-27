@@ -30,7 +30,7 @@ A simple command-line password manager written in C with XOR encryption and mast
 
 ## 🛠️ Planned Features
 
-- [✅] Edit existing entries
+- [] Edit existing entries
 - [ ] Password generator
 - [ ] Search by website
 - [ ] Export to CSV
